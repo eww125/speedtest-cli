@@ -1,4 +1,4 @@
-speedtest-cli
+python speedtest-cli/speedtest.py
 =============
 
 Command line interface for testing internet bandwidth using
